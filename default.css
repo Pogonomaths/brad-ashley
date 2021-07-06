@@ -7,7 +7,7 @@ html, body
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #332;
+		background: #202020;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
@@ -372,7 +372,7 @@ html, body
 	.title .byline
 	{
 		font-size: 1.3em;
-		color: #6F6F6F;
+		color: #9400D3;
 	}
 		
 /*********************************************************************************/
