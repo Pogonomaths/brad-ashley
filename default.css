@@ -1,8 +1,9 @@
-html, body
+	html, body
 	{
 		height: 100%;
 	}
 	
+	body
 	{
 		margin: 0px;
 		padding: 0px;
@@ -241,7 +242,7 @@ html, body
 	ul.contact li a:before
 	{
 		display: inline-block;
-		background: #6F6F6F;
+		background: #3f3f3f;
 		width: 40px;
 		height: 40px;
 		line-height: 40px;
