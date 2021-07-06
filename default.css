@@ -242,7 +242,7 @@ html, body
 	ul.contact li a:before
 	{
 		display: inline-block;
-		background: #3f3f3f;
+		background: #9400D3;
 		width: 40px;
 		height: 40px;
 		line-height: 40px;
@@ -372,7 +372,7 @@ html, body
 	.title .byline
 	{
 		font-size: 1.3em;
-		color: #9400D3;
+		color: #6F6F6F;
 	}
 		
 /*********************************************************************************/
